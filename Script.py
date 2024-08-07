@@ -31,7 +31,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    CLONE_START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {}⚡,\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!</b>"""
+    CLONE_START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {}⚡,\n\nI am a permenant file store bot and users can access stored messages by using a shareable link given by me.\n\nTo know more click help button</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
